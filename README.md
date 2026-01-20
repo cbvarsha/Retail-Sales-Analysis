@@ -5,7 +5,7 @@ A data analysis project using **Python**, **Excel**, and **Git** to uncover reta
 ---
 
 ## Folder Structure
-
+```
 Retail-Sales-Analysis/
 │
 ├── data/
@@ -19,6 +19,8 @@ Retail-Sales-Analysis/
 │
 ├── RETAIL SALES ANALYSIS.ipynb
 └── README.md
+
+```
 
 
 ---
